@@ -24,7 +24,9 @@ class A
 public:
     A()
     {
-        ptr=0;
+     
+     cout<<"git push origin success";
+     ptr=0;
         cout<<"Default Constructor"<<endl;
     }
 
